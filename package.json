@@ -26,6 +26,5 @@
     "popper.js": "^1.14.6",
     "sass-loader": "^7.1.0",
     "sweetalert": "^2.1.2"
-
   }
 }

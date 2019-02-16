@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>LaraClone - Header image</title>
+    <title>E-learning Platform</title>
 
     <!-- Styles -->
     <link href="/assets/css/core.min.css" rel="stylesheet">
@@ -29,8 +29,7 @@
             <div class="topbar-left">
                 <button class="topbar-toggler">&#9776;</button>
                 <a class="topbar-brand" href="{{url('/')}}">
-                    <img class="logo-default" src="{{asset('assets/img/logo.png')}}" alt="logo">
-                    <img class="logo-inverse" src="{{asset('assets/img/logo-light.png')}}" alt="logo">
+                    <h3  style="color: white; text-transform: capitalize">E-learning Platform</h3>
                 </a>
             </div>
 
@@ -78,7 +77,10 @@
             <div class="row gap-y align-items-center">
                 <div class="col-12 col-lg-3">
                     <p class="text-center text-lg-left">
-                        <a href="index.html"><img src="/assets/img/logo.png" alt="logo"></a>
+                    {{--<a href="index.html"><img src="/assets/img/logo.png" alt="logo"></a>--}}
+                    <a href="{{route('welcome')}}">
+                        <h3  style="color: white; text-transform: capitalize">E-learning Platform</h3>
+                    </a>
                     </p>
                 </div>
 

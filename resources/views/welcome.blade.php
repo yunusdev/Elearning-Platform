@@ -9,10 +9,10 @@
             <div class="row h-full">
                 <div class="col-12 col-lg-8 offset-lg-2 align-self-center">
 
-                    <h1 class="display-4 hidden-sm-down">LaraClone</h1>
+                    <h1 class="display-4 hidden-sm-down">E-learning Platform</h1>
                     <h1 class="hidden-md-up">Create Professional Websites</h1>
                     <br>
-                    <p class="lead text-white fs-20 hidden-sm-down"><span class="fw-400">TheSaaS</span> is a responsive, professional, and multipurpose<br> SaaS template powered with <span class="mark-border">Bootstrap 4</span>.</p>
+                    <p class="lead text-white fs-20 hidden-sm-down"><span class="fw-400">E-Learning </span>platform with series and lessons</p>
 
                     <br><br><br>
 

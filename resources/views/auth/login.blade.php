@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
 
-    <title>E- learning - Login</title>
+    <title>E-learning Platform - Login</title>
 
     <!-- Styles -->
     <link href="assets/css/core.min.css" rel="stylesheet">

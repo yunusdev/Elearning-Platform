@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
 
-    <title>E- learning  - Register</title>
+    <title>E-learning Platform  - Register</title>
 
     <!-- Styles -->
     <link href="assets/css/core.min.css" rel="stylesheet">
