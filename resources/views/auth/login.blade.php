@@ -68,7 +68,7 @@
 
     <hr class="w-30">
 
-    <p class="text-center text-muted fs-13 mt-20">Already have an account? <a href="page-login.html">Sign in</a></p>
+    <p class="text-center text-muted fs-13 mt-20">Already have an account? <a href="/register">Not Registered? Create Account!</a></p>
 </div>
 
 
